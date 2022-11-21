@@ -139,13 +139,13 @@ body {
     opacity: 1;
   }
   50% {
-    transform: translateY(-150px) scaleX(7.5);
+    transform: translateY(-150px) scaleX(5);
   }
   95% {
     opacity: 0;
   }
   100% {
-    transform: translateY(-300px) scaleX(15);
+    transform: translateY(-300px) scaleX(11);
   }
 }
 
